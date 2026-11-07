@@ -1,0 +1,21 @@
+name: Propose a change
+description: Suggest a change to Orbit's rules, moderation or ranking.
+labels: [proposal]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's the problem?
+      description: What happens today, and why is it a problem?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: What do you propose?
+    validations:
+      required: true
+  - type: textarea
+    id: impact
+    attributes:
+      label: Who does it help, and who could it hurt?

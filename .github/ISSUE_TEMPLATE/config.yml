@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Report a post, comment or member
+    url: https://orbitdiscuss.com
+    about: Use Report in the app. Don't report individual content here.
+  - name: Appeal a decision
+    url: mailto:support@orbitdiscuss.com?subject=Appeal
+    about: Email support with the subject "Appeal".

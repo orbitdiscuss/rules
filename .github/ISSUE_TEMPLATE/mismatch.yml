@@ -1,0 +1,16 @@
+name: Orbit doesn't match the docs
+description: Orbit behaves differently from what this repository says.
+labels: [mismatch]
+body:
+  - type: input
+    id: doc
+    attributes:
+      label: Which document and section?
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What did you expect, and what happened?
+    validations:
+      required: true
