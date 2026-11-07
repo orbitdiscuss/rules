@@ -28,6 +28,14 @@ Anyone can suggest an improvement. Open an [issue](../../issues/new/choose) to s
 
 The legally binding documents are the [Terms of Service](https://orbitdiscuss.com/terms.html) and [Privacy Policy](https://orbitdiscuss.com/privacy.html). This repository explains them in plain language; it does not replace them.
 
+## Contributors
+
+New here? Start with an issue labelled [good first issue](https://github.com/orbitdiscuss/rules/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) or [help wanted](https://github.com/orbitdiscuss/rules/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22). Every merged contribution is credited here and in Orbit's monthly contributors post.
+
+<a href="https://github.com/orbitdiscuss/rules/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=orbitdiscuss/rules" alt="Contributors">
+</a>
+
 ## Contact
 
 - General support and appeals: support@orbitdiscuss.com
